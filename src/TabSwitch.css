@@ -1,0 +1,19 @@
+.my-tab{
+    display: block;
+}
+
+.my-tab-temp{
+    display: none;
+}
+
+.button-container button{
+    border: none;
+    outline: none;
+    color: black;
+    width: 180px;
+   
+}
+.button-container button:hover{
+    background-color: white;
+    color: brown ;
+}
